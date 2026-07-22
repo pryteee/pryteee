@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="610"
+     viewBox="0 0 560 610">
+  <defs>
+    <clipPath id="roundedCard2">
+      <rect x="0" y="0" width="560" height="610" rx="12" ry="12"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#roundedCard2)">
+    <rect x="0" y="0" width="560" height="610" fill="#0d1117"/>
+    <rect x="0" y="0" width="560" height="40" fill="#161b22"/>
+    <circle cx="22" cy="20.0" r="6" fill="#ff5f56"/>
+    <circle cx="42" cy="20.0" r="6" fill="#ffbd2e"/>
+    <circle cx="62" cy="20.0" r="6" fill="#27c93f"/>
+    <text x="280.0" y="24.0" text-anchor="middle"
+          font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#8b949e">prytee@github: ~$ neofetch</text>
+
+    <text x="24" y="74" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="bold" fill="#7ee787">Prytee</text>
+    <text x="24" y="98" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#ffa657">Role</text><text x="171" y="98" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c9d1d9">AI Engineer</text>
+    <text x="24" y="122" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#ffa657">Focus</text><text x="171" y="122" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c9d1d9">AI/ML, Fullstack, Data science</text>
+    <text x="24" y="146" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#ffa657">Origin</text><text x="171" y="146" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c9d1d9">Bhubaneswar, Odisha</text>
+    <text x="24" y="170" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#ffa657">Status</text><text x="171" y="170" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c9d1d9">Building, learning, shipping</text>
+    <text x="24" y="194" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#ffa657">Tools</text><text x="171" y="194" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c9d1d9">VScode, Git, Linux, Docker</text>
+    <line x1="24" y1="204" x2="536" y2="204" stroke="#30363d" stroke-width="1"/>
+    <text x="24" y="232" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#79c0ff">─ Stack</text>
+    <text x="24" y="256" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#ffa657">Lang</text><text x="171" y="256" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c9d1d9">• Python • C • SQL • Javascript</text>
+    <text x="24" y="280" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#ffa657">Backend</text><text x="171" y="280" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c9d1d9">• FastAPI • NodeJS</text>
+    <text x="24" y="304" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#ffa657">AI/ML</text><text x="171" y="304" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c9d1d9">• Tensorflow • Scikit-learn • LLMs</text>
+    <text x="24" y="328" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#ffa657">Database</text><text x="171" y="328" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c9d1d9">• MySQL • MongoDB</text>
+    <line x1="24" y1="338" x2="536" y2="338" stroke="#30363d" stroke-width="1"/>
+    <text x="24" y="366" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#79c0ff">─ Projects</text>
+    <text x="24" y="390" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#ffa657">T&amp;C Scanner</text><text x="171" y="390" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c9d1d9">AI-powered Chrome extension for T&amp;C analysis</text>
+    <text x="24" y="414" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#ffa657">Risk Pipeline</text><text x="171" y="414" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c9d1d9">End-to-end student dropout prediction</text>
+    <text x="24" y="438" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#ffa657">API Analyzer</text><text x="171" y="438" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c9d1d9">API monitoring &amp; reliability tool</text>
+    <text x="24" y="462" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#ffa657">Portfolio</text><text x="171" y="462" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c9d1d9">Developer portfolio &amp; project showcase</text>
+    <line x1="24" y1="472" x2="536" y2="472" stroke="#30363d" stroke-width="1"/>
+    <text x="24" y="500" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#79c0ff">─ Highlights</text>
+    <text x="24" y="524" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#7ee787">•</text><text x="42" y="524" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c9d1d9">Main quest building AI that matters</text>
+    <text x="24" y="548" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#7ee787">•</text><text x="42" y="548" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c9d1d9">Side quest Gaming • Travel • Hackathons</text>
+    <text x="24" y="572" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#7ee787">•</text><text x="42" y="572" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#c9d1d9">XP +1 every day</text>
+
+    <rect x="0.5" y="0.5" width="559" height="609" rx="12" ry="12"
+          fill="none" stroke="#30363d" stroke-width="1"/>
+  </g>
+</svg>

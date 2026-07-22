@@ -1,0 +1,61 @@
+{
+  "github_username": "pryteee",
+  "display_name": "Pritirekha Panda",
+  "left_card": {
+    "window_title": "prytee@github: ~$ ./portrait.sh",
+    "footer_prompt": "prytee@github:~$ whoami",
+    "footer_name": "Prytee"
+  },
+  "right_card": {
+    "window_title": "prytee@github: ~$ neofetch",
+    "user_line": "prytee@github",
+    "top_fields": [
+      { "label": "Role",   "value": "AI Engineer" },
+      { "label": "Focus",  "value": "AI/ML, Fullstack, Data science" },
+      { "label": "Origin", "value": "Bhubaneswar, Odisha" },
+      { "label": "Status", "value": "Building, learning, shipping" },
+      { "label": "Tools",  "value": "VScode, Git, Linux, Docker" }
+    ],
+    "sections": [
+      {
+        "header": "Stack",
+        "type": "fields",
+        "items": [
+          { "label": "Lang",     "value": "• Python • C • SQL • Javascript" },
+          { "label": "Backend",  "value": "• FastAPI • NodeJS" },
+          { "label": "AI/ML",    "value": "• Tensorflow • Scikit-learn • LLMs" },
+          { "label": "Database", "value": "• MySQL • MongoDB" }
+        ]
+      },
+      {
+        "header": "Projects",
+        "type": "fields",
+        "items": [
+          { "label": "T&C Scanner",   "value": "AI-powered Chrome extension for T&C analysis" },
+          { "label": "Risk Pipeline", "value": "End-to-end student dropout prediction" },
+          { "label": "API Analyzer",  "value": "API monitoring & reliability tool" },
+          { "label": "Portfolio",     "value": "Developer portfolio & project showcase" }
+        ]
+      },
+      {
+        "header": "Highlights",
+        "type": "bullets",
+        "items": [
+          "Main quest building AI that matters",
+          "Side quest Gaming • Travel • Hackathons",
+          "XP +1 every day"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "name": "Prytee",
+    "tagline": "Data Science & AI Engineer · Full Stack Developer",
+    "links": [
+      { "label": "PORTFOLIO",  "value": "linkkkkkkkkkkkkkk",      "color": "#6b7280" },
+      { "label": "LINKEDIN",   "value": "linkkkkkkkkkkkkkkk",     "color": "#2563eb" },
+      { "label": "INSTAGRAM",  "value": "linkkkkkkkkkkkkkkkkkkk", "color": "#e1306c" },
+      { "label": "X",          "value": "linkkkkkkkkkkkkkkkkkk",  "color": "#22d3ee" }
+    ]
+  }
+}
