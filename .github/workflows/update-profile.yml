@@ -7,7 +7,9 @@ name: Update profile cards
 # scripts, so you see results immediately instead of waiting for the next cron.
 on:
   schedule:
-    - cron: "0 13 * * *"   # 6:30 PM IST
+    - cron: "30 3 * * *"    # 09:00 AM IST - morning
+    - cron: "0 13 * * *"    # 06:30 PM IST - evening
+    - cron: "29 18 * * *"   # 11:59 PM IST - your requested "day close"
   workflow_dispatch: {}
   push:
     paths:
