@@ -17,7 +17,6 @@ on:
       - "scripts/**"
       - "assets/ascii.gif"
 
-# Needed so the workflow is allowed to push a commit back to the repo.
 permissions:
   contents: write
 
